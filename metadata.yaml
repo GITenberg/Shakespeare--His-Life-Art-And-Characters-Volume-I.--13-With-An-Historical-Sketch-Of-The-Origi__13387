@@ -1,0 +1,31 @@
+_repo: Shakespeare--His-Life-Art-And-Characters-Volume-I.--13-With-An-Historical-Sketch-Of-The-Origi__13387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hudson, Henry Norman
+    alias: Hudson, H. N. (Henry Norman)
+    birthdate: 1814
+    deathdate: 1886
+    gutenberg_agent_id: '33276'
+    url: http://www.gutenberg.org/2009/agents/33276
+description: ''
+gutenberg_issued: '2004-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Characters and characteristics in literature'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Characters'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism'
+- !lcsh 'Shakespeare, William, 1564-1616'
+title: "Shakespeare: His Life, Art, And Characters, Volume I.\r\nWith An Historical\
+  \ Sketch Of The Origin And Growth Of The Drama In England"
+url: http://www.gutenberg.org/ebooks/13387
